@@ -21,7 +21,6 @@ This project explores the number theory problem: For which non-negative integers
 ## Repository Contents
 
 -   `analyze_partitions.py`: The core Python script to run the computation and analysis.
--   `partition_data/`: Directory where the computed `.pkl` data chunks are stored (created on first run).
 -   `README.md`: This documentation file.
 -   `requirements.txt`: A list of the Python dependencies required to run the script.
 -   `computation_log.txt`: The log file capturing the time taken to run the script.
