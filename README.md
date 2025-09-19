@@ -2,9 +2,9 @@
 
 This repository contains the Python code to computationally investigate the divisibility of the central binomial coefficient $\binom{2n}{n}$ by the integer partition function $p(n)$. The project is based on the paper:
 
-### Pre-print (Zenodo) : [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17162713.svg)](https://doi.org/10.5281/zenodo.17162713)
-* **DOI** - 10.5281/zenodo.17162713
-* **URL** - https://doi.org/10.5281/zenodo.17162713
+### Pre-print (Zenodo) : [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17162937.svg)](https://doi.org/10.5281/zenodo.17162937)
+* **DOI** - 10.5281/zenodo.17162937
+* **URL** - https://doi.org/10.5281/zenodo.17162937
 
 ## Abstract
 
@@ -84,7 +84,7 @@ This will create the `computation_log.txt` file in your Colab session, which you
 
 If you use this work, please cite the paper using the Zenodo archive.
 
-@misc{naladiga_venkat_2025_17162713,
+@misc{naladiga_venkat_2025_17162937,
   author       = {Naladiga Venkat, Arvind},
   title        = {Divisibility of Central Binomial Coefficients by
                    the Partition Function: A Computational Study and
@@ -93,8 +93,8 @@ If you use this work, please cite the paper using the Zenodo archive.
   month        = sep,
   year         = 2025,
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.17162713},
-  url          = {https://doi.org/10.5281/zenodo.17162713},
+  doi          = {10.5281/zenodo.17162937},
+  url          = {https://doi.org/10.5281/zenodo.17162937},
 }
 
 ---
